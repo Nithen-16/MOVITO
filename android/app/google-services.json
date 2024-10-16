@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "412160664645",
+    "project_id": "movito1-b175e",
+    "storage_bucket": "movito1-b175e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412160664645:android:9ae7506ef80cbe39b9af2c",
+        "android_client_info": {
+          "package_name": "com.example.movito1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxf4iLYcP_UAYnPjeKPP5_Y25ISjb86J0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
